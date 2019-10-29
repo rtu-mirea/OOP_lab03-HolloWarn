@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e1a283a-47bc-4c7a-8762-82cf39d81836" name="Default Changelist" comment="" />
+    <list default="true" id="3c6d7e88-ecc0-4537-931a-ffdcdb6edb1f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1Spf1wlU8UPmv7WL9gultryUSgs" />
+  <component name="ProjectId" id="1SsuR84mzYldqnrFnlRGSeE9PNn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,8 +34,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Лабораторная работа 3" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Totalizator" />
+      <module name="LJ3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -43,17 +43,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e1a283a-47bc-4c7a-8762-82cf39d81836" name="Default Changelist" comment="" />
-      <created>1572265246796</created>
+      <changelist id="3c6d7e88-ecc0-4537-931a-ffdcdb6edb1f" name="Default Changelist" comment="" />
+      <created>1572364613690</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572265246796</updated>
+      <updated>1572364613690</updated>
     </task>
     <servers />
   </component>
